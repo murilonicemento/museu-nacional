@@ -123,6 +123,7 @@ input{
 }
 input.campo{
     border: 1px solid #ada484;
+    width: 100px;
 }
 input.botao{
     background-color: #9b9271;
